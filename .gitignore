@@ -1,0 +1,15 @@
+#Lazarus Backup Directories
+backup
+backup/*
+
+#Lazarus Session File
+*.lps
+
+#Build Directories
+lib
+lib/*
+
+#Compiled Application 
+*.run
+#Debug Version of the Application
+*.dbg
